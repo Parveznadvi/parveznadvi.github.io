@@ -957,6 +957,10 @@ button.bg-white:hover {
   background-color: #1a253f !important;
 }
 
+.bg-black {
+  background-color: #000000 !important;
+}
+
 .bg-light {
   background-color: #f1f5fa !important;
 }
